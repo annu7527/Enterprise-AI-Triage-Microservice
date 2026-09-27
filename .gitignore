@@ -1,0 +1,10 @@
+# Ignore local databases and system configurations
+local_database.json
+.env
+.streamlit/
+__pycache__/
+*.pyc
+
+# Ignore local system tracking files
+.DS_Store
+Thumbs.db
